@@ -5,7 +5,7 @@ I'm Data Scientist, by Casa & Video(Group CVLB) since 2022.
 
 ### Hard Skills
 ![SQL](https://img.shields.io/badge/SQL-orange)
-![Python](https://img.shields.io/badge/SQL-blue)
+![Python](https://img.shields.io/badge/Python-blue)
 
 ### Soft Skills
 ![Communicative](https://img.shields.io/badge/Communicative-red)
